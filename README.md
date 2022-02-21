@@ -7,5 +7,15 @@
 - eslint/prettier/stylelint の設定を追加しています
 - scss の stylelint 設定も追加しています
 - sass は dart sass を入れています
-- stylelint-order や stylelint-config-recess-order は入れていません。お好みで追加ください。
+- order は stylelint-config-recess-order を入れています。
 - vscode の拡張機能 prettier/eslint/stylelint を入れることをお勧めします。
+- package.json の dependencies の内
+  - "stylelint-webpack-plugin": "^3.1.1",
+  - "vue": "^2.6.14",
+  - "vue-server-renderer": "^2.6.14",
+  - "vue-template-compiler": "^2.6.14",
+  - "webpack": "^4.46.0"
+  - は yarn remove しても大丈夫です。
+- package.json の devDependencies の内
+  - "eslint-plugin-vue": "^8.2.0"
+  - は yarn remove しても大丈夫です。

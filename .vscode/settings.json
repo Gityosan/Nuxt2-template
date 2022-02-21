@@ -13,5 +13,6 @@
   "git.ignoreLimitWarning": true,
   "stylelint.validate": ["css", "scss"],
   "css.validate": false,
-  "scss.validate": false
+  "scss.validate": false,
+  "vetur.format.enable": false
 }
