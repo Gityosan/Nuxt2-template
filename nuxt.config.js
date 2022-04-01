@@ -7,7 +7,7 @@ export default {
   head: {
     title: 'nuxt_template',
     htmlAttrs: {
-      lang: 'en'
+      lang: 'ja'
     },
     meta: [
       { charset: 'utf-8' },
