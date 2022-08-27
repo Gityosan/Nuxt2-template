@@ -6,7 +6,6 @@ module.exports = {
     'stylelint-config-prettier'
   ],
   plugins: [],
-  ignoreFiles: ['**/node_modules/**', '**/.nuxt/**', '**/dist/**'],
   rules: {
     // 'at-rule-no-unknown': false,
     'scss/at-rule-no-unknown': true,

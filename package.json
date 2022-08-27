@@ -1,7 +1,8 @@
 {
-  "name": "nuxt_template",
+  "name": "nuxt2_template",
   "version": "1.0.0",
   "private": false,
+  "license": "MIT",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
@@ -18,7 +19,6 @@
     "@nuxtjs/eslint-module": "^3.0.2",
     "@nuxtjs/stylelint-module": "^4.1.0",
     "@nuxtjs/vuetify": "^1.12.3",
-    "core-js": "^3.19.3",
     "nuxt": "^2.15.8"
   },
   "devDependencies": {
